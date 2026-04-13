@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "5c1d869c2b875d8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2511e053e8f5842",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fc5bbb6f64cc70f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba3cc732c9ffc3af",
+    "type": "split",
+    "children": [
+      {
+        "id": "e489fb8b35ac19fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb16e517e65fe197",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "02b6fa98361fe893",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "40cb98a196fd76fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "944a45c58e0fd3d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7561a1ca5400c8f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0d11acc07e3b8f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "760554652b2ccc36",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "963de96f74132e14",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f52b3a14e338d415",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "dfd442ccd8fe5e36",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "eb16e517e65fe197",
+  "lastOpenFiles": [
+    "01 Book Notes/001 - Epic of Gilgamesh.md",
+    "01 Book Notes/095 - Brave New World.md",
+    "01 Book Notes/094 - 1984.md",
+    "01 Book Notes/093 - The Origins of Totalitarianism.md",
+    "01 Book Notes/092 - The Human Condition.md",
+    "01 Book Notes/091 - The Open Society and Its Enemies.md",
+    "01 Book Notes/090 - The General Theory of Employment, Interest and Money.md",
+    "01 Book Notes/089 - The Road to Serfdom.md",
+    "01 Book Notes/088 - The Stranger.md",
+    "01 Book Notes/087 - The Myth of Sisyphus.md",
+    "01 Book Notes/086 - The Second Sex.md",
+    "00 Indexes/Generation Queue.md",
+    "01 Book Notes/006 - Tao Te Ching.md",
+    "01 Book Notes/027 - The Divine Comedy.md",
+    "01 Book Notes/026 - The Rule of St. Benedict.md",
+    "04 Era Notes/Era - Twentieth Century.md",
+    "04 Era Notes/Era - Nineteenth Century.md",
+    "04 Era Notes/Era - Enlightenment.md",
+    "01 Book Notes/015 - Nicomachean Ethics.md",
+    "01 Book Notes/014 - Apology.md",
+    "01 Book Notes/013 - The Republic.md",
+    "01 Book Notes/012 - History of the Peloponnesian War.md",
+    "01 Book Notes/011 - Histories.md",
+    "01 Book Notes/040 - Discourse on Method.md",
+    "01 Book Notes/039 - Don Quixote.md",
+    "01 Book Notes/038 - Novum Organum.md"
+  ]
+}
